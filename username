@@ -1,0 +1,2 @@
+git config --global user.email "s_amba.beattie@ousd.org"
+git config --global user.name "amba-beattie1"
